@@ -18,6 +18,11 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+"""
+File Validation Patterns (:mod:`tendril.validation.files`)
+==========================================================
+"""
+
 
 from tendril.validation.base import ValidationError
 from tendril.validation.base import ValidationPolicy
